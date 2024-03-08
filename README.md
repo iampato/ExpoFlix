@@ -51,7 +51,7 @@ or
 npm run start
 ```
 
-If it gives you the option to either run android or ios press `a` for android and `i` for ios 
+If it gives you the option to either run Android or ios press `a` for Android and `i` for ios 
 
 
 ### Libraries & Tools Used
@@ -97,13 +97,12 @@ Here is the folder structure we have been using in this project inside of `src`
 ```
 
 
-1. The **app*** module holds app-related things for example the app entry component, main routes, etc
+1. The **app*** module holds app-related things for example the app entry component, etc
 Ideally, high-level components that are needed by an app
 
 ```
 ├── app
 │   ├── App.tsx
-│   └── rootNavigation.tsx
 ```
 
 2. The **core*** module contains common things that an app needs, and various features can depend on this module for example things found on the core module include:
