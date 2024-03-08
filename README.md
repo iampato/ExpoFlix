@@ -75,8 +75,6 @@ If it gives you the option to either run android or ios press `a` for android an
     * [Jest](https://jestjs.io/) - a JavaScript testing framework
 
 6. ### Others
-   * [react-native-svg](https://github.com/react-native-svg/react-native-svg) - a library for SVG support in React Native
-   * 
    * [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - a library for handling safe area insets in React Native
    * [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - a library for rendering Lottie animations in React Native
 
